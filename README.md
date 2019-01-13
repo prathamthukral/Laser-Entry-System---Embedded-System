@@ -1,4 +1,4 @@
-# Laser_Entry_System
+# LaserEntrySystem
 Hardware system of 2 lasers (paired with 2 photodiodes) that detects movement through a barrier.
 
 Needs to be paired with a raspberry pi and linux virtual machine.
